@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.card {
+  color:#61dafb;
+  border:#282c34 2px solid;
+  
+  display: block;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px;
+  align-items: center;
+}
+.receiptCard {
+  text-align: left;
+  display: block;
+  display: flex;
+  
+  
+}
+
+.name {
+  color:black;
+}
